@@ -9,7 +9,7 @@
       ]
     },
     "vue-cli-plugin-vuetify": {
-      "prompts": true
+      "install": "v3vite"
     }
   },
   "vueVersion": "3"
