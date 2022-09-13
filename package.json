@@ -1,0 +1,7 @@
+{
+  "name": "@vuetify/v3-preset",
+  "version": "0.0.1",
+  "description": "A Vue CLI preset for Vuetify 3",
+  "author": "John Leider <john@vuetifyjs.com>",
+  "license": "MIT"
+}
